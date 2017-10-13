@@ -1,0 +1,27 @@
+
+#formy {
+
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+#field {
+	border: none;
+	font-size: 48px;
+	font-family: Helvetica;
+    text-align: center;
+}
+
+#field:focus {
+	outline-width: 0;
+	outline: none;
+}
+
+#splash {
+	font-size: 200px;
+    font-family: Helvetica;
+    margin: auto;
+    text-align: center;
+}
